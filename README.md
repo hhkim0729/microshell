@@ -1,4 +1,4 @@
-# 42-MINISHELL
+# Microshell
 
 C project to mimic the bash shell
 
